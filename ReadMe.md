@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Ai - data scientist<br>Enthusiasts<br>
+I'm Ai - data scientist<br>love hacking with big data<br>
 
 
 # 💻 Tech Stack:
